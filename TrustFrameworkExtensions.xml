@@ -43,7 +43,7 @@
         <InputTokenFormat>JWT</InputTokenFormat>
         <Metadata>
           <Item Key="issuer">https://yourtenant.b2clogin.com/<directory(tenant)-id>/v2.0/</Item>
-          <Item Key="audience">[ "ffd908a3-3c44-4d81-af19-cc50f5743026"]</Item>
+          <Item Key="audience">["0000000000000-000000000000-00000000"]</Item>
           <Item Key="client_assertion_type">urn:ietf:params:oauth:client-assertion-type:jwt-bearer</Item>
         </Metadata>
         <CryptographicKeys>
